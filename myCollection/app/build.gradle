@@ -7,16 +7,13 @@
  */
 
 plugins {
-
     // Apply the application plugin to add support for building a CLI application in Java.
     id 'application'
 
     id 'by.vorobey.plugin.greeting'  version '1.0'
-
 }
 
 version '1.0'
-
 
 repositories {
 
