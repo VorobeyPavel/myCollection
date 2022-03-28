@@ -12,6 +12,7 @@ plugins {
 
     //id 'by.vorobey.plugin.greeting'  version '1.0'
 
+    id 'com.gmail.arthurstrokov.plugin.testGradleGitReleasePlugin' version '1.0'
 
 }
 
